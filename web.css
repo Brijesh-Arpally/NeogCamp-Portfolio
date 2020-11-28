@@ -1,0 +1,144 @@
+.image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    max-width: 280px;
+    padding-top: 1rem;
+}
+.header
+{
+    background-color: #F3F4F6;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+h1
+{
+    text-align: center;
+    color: #1E40AF;
+}
+p
+{
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+}
+a
+{
+    text-align: center;
+    color: #3B82F6;
+    text-decoration: none;
+}
+.links
+{
+    display: block;
+    text-decoration: none;
+}
+.header-links
+{
+    letter-spacing: 0.5px;
+    word-spacing: 5px;
+    text-align: right;
+}
+footer ul
+{
+    word-spacing: 5px;
+}
+.title
+{
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #1E40AF;;
+}
+footer
+{
+    background-color: #DBEAFE;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.about-me
+{
+    background-color: #f8f8f8;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.projects
+{
+    background-color: #f8f8f8;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.technologies
+{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.blogs
+{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.name
+{
+    background-color: #f8f8f8;
+}
+.links-1
+{
+    display: block;
+    color: #3B82F6;
+    padding-top: 1rem;
+}
+.links-2
+{
+    display: block;
+    color: #B91C1C;
+    padding-top: 1rem;
+}
+h2
+{
+    text-align: center;
+}
+.social
+{
+    height: 50px;
+    width: 50px;
+    padding-bottom: 1rem;
+}
+h3
+{
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+}
+.smile
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4
+{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+}
+.side-heading
+{
+    text-align: start;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.01rem;
+    word-spacing: 00.04rem;
+}
+.name
+{
+    text-align: end;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+h5
+{
+    font-size: 33px;
+}
