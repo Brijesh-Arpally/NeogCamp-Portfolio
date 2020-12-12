@@ -142,3 +142,15 @@ h5
 {
     font-size: 33px;
 }
+.blogbutton
+{
+    background-color: #3B82F6;
+    color: whitesmoke;
+    display: block;
+    max-width: 140px;
+    box-sizing: border-box;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
