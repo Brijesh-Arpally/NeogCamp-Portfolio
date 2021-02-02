@@ -1,3 +1,7 @@
+body
+{
+    background-color: black;
+}
 .image
 {
     display: block;
@@ -9,20 +13,33 @@
 }
 .header
 {
-    background-color: #F3F4F6;
+    background-color: #DCDCDC;
     padding-bottom: 1rem;
     padding-top: 1rem;
 }
 h1
 {
     text-align: center;
-    color: #1E40AF;
+    color: black;
+}
+.blog-heading
+{
+    color: #DCDCDC;
+}
+.technology-heading
+{
+    color: #DCDCDC;
 }
 p
 {
     text-align: center;
     font-style: italic;
     font-family: sans-serif;
+    color: honeydew;
+}
+.white
+{
+    color: black;
 }
 a
 {
@@ -50,11 +67,11 @@ footer ul
     font-style: italic;
     font-size: xx-large;
     font-weight: bolder;
-    color: #1E40AF;;
+    color: black;
 }
 footer
 {
-    background-color: #DBEAFE;
+    background-color: #DCDCDC;
     padding-bottom: 1rem;
     padding-top: 1rem;
 }
@@ -82,7 +99,7 @@ footer
 }
 .name1
 {
-    background-color: #f8f8f8;
+    color: whitesmoke;
 }
 .links-1
 {
@@ -121,16 +138,10 @@ h3
 h4
 {
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
     color: maroon;
-}
-.side-heading
-{
-    text-align: start;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    letter-spacing: 0.01rem;
-    word-spacing: 00.04rem;
+
 }
 .name
 {
@@ -141,11 +152,12 @@ h4
 h5
 {
     font-size: 33px;
+    color: wheat;
 }
 .blogbutton
 {
-    background-color: #3B82F6;
-    color: whitesmoke;
+    background-color: #DCDCDC;
+    color: black;
     display: block;
     max-width: 140px;
     box-sizing: border-box;
@@ -153,11 +165,62 @@ h5
     padding-top: 1rem;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50%;
+}
+.blogbutton :hover
+{
+    background-color: chartreuse;
 }
 hr
 {
-    /* padding-top: 1rem; */
     padding-bottom: 0.5rem;
-    color:  #3B82F6;
-    background-color:  #3B82F6;
+    color:  #DCDCDC;
+    background-color: #DCDCDC;
+}
+.projects-title
+{
+    color: #DCDCDC;
+}
+.name2
+{
+    color: wheat;
+}
+.header-links a
+{
+    color: black;
+}
+.header-links a:hover
+{
+    color: red;
+}
+.blogbutton:hover
+{
+    color: blue;
+    background-color: burlywood;
+}
+.projects a:hover
+{
+    color: red;
+}
+.blogs a:hover
+{
+    color: red;
+}
+ol a:hover
+{
+    color: yellow;
+}
+.speech
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+}
+.universe
+{
+    width: 10rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
